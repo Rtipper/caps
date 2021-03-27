@@ -1,17 +1,16 @@
-# Lab: Class 7  -- Bearer Authorization
-
+# Lab: Class 11  -- CAPS
 
 **Author**: Ryan Tipper
 **Version**: 1.0.0
 
 # Pull Request
-- 
+- https://github.com/Rtipper/caps/pull/3
 
 # Heroku Deployment
 - https://rtipper-caps.herokuapp.com/
 
 ## Overview - 
-
+A real-time service that allows for vendors, such as flower shops or restaurants, to alert a system of a package needing to be delivered, for drivers to instantly see what’s in their pickup queue, and then to alert the vendors as to the state of the deliveries (in transit, and then delivered).
 
 ## Process
 Setup repo
@@ -44,9 +43,9 @@ Estimate of time needed to complete: 60 minutes
 
 Start time: 2PM
 
-Finish time: PM
+Finish time: 230PM
 
-Actual time needed to complete:  minutes
+Actual time needed to complete:  30minutes
 
 ----------------------------------
 
