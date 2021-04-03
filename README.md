@@ -4,7 +4,7 @@
 **Version**: 1.0.0
 
 # Pull Request
-- https://github.com/Rtipper/caps/pull/3
+- https://github.com/Rtipper/caps/pull/4
 
 # Heroku Deployment
 - https://rtipper-caps.herokuapp.com/
@@ -53,8 +53,8 @@ Number and name of feaute: 2 -- Begin adding features / code
 
 Estimate of time needed to complete: 60 minutes
 
-Start time: PM
+Start time: 4PM
 
-Finish time: PM
+Finish time: 530PM
 
-Actual time needed to complete:  minutes
+Actual time needed to complete: 90minutes
