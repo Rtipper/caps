@@ -31,7 +31,7 @@ GitHub
 Heroku
 
 ## Change Log
-
+4/3 420PM: Lab Fully Complete and Working
 
 ## Credits and Collaborations
 
@@ -58,3 +58,15 @@ Start time: 4PM
 Finish time: 530PM
 
 Actual time needed to complete: 90minutes
+
+----------------------------------
+
+Number and name of feaute: 3 -- Finish adding features / code
+
+Estimate of time needed to complete: 3 hours
+
+Start time: 2PM
+
+Finish time: 420PM
+
+Actual time needed to complete: 2hr 20min
