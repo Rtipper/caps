@@ -1,10 +1,10 @@
-# Lab: Class 11  -- CAPS
+# Lab: Class 12  -- CAPS
 
 **Author**: Ryan Tipper
 **Version**: 1.0.0
 
 # Pull Request
-- https://github.com/Rtipper/caps/pull/4
+- https://github.com/Rtipper/caps/pull/5
 
 # Heroku Deployment
 - https://rtipper-caps.herokuapp.com/
@@ -70,3 +70,14 @@ Start time: 2PM
 Finish time: 420PM
 
 Actual time needed to complete: 2hr 20min
+
+---------------------------------
+Number and name of feature: 1 -- Refactor of the CAPS Portion of CAPS
+
+Estimate of time needed to complete: 2 hrs 30 min
+
+Start time: 11AM
+
+Finish time: 210PM
+
+Actual time needed to complete: 3 hr 10 min
